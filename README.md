@@ -2,9 +2,13 @@
 
 ## Praktikum
 Praktikum 1 : Input, Output, dan Percabangan
+
 Praktikum 2 : Perulangan
+
 Praktikum 3 : Array
+
 Praktukum 4 : Fungsi, Prosedur, dan Matriks
+
 Praktikum 5 : Analisis Data
 
 ## Tugas Besar
