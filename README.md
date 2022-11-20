@@ -2,4 +2,4 @@
 
 ## Praktikum
 > Praktikum 1 : Input, Output, dan Percabangan
-> Praktikum 2 : 
+ Praktikum 2 : 
